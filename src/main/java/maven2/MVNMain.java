@@ -257,7 +257,7 @@ public class MVNMain {
 				 String user = "root";
 				 String pass = "root";
 				 Connection conn = null;
-
+//ku
 				 try {
 				 Scanner scanner = new Scanner(System.in);
 
